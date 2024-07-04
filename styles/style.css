@@ -1,7 +1,16 @@
 div {
   background-color: goldenrod;
   padding: 10px;
-  margin: 10xp;
+  margin: 20px;
   text-align: center;
   border: 2px solid rebeccapurple;
+}
+.names {
+  background-color: aqua;
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+  border: 2px solid seagreen;
+  font-size: large;
+  font-weight: bolder;
 }
