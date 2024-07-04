@@ -14,3 +14,11 @@ div {
   font-size: large;
   font-weight: bolder;
 }
+.or_list {
+  color: rgb(246, 245, 242);
+  background-color: brown;
+  text-align: left;
+  padding: 20px;
+  margin: 20px;
+  font-size: large;
+}
